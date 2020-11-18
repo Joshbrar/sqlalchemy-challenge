@@ -1,5 +1,4 @@
 # SQLAlchemy Homework 
-### Before You Begin
 
 
 ## Step 1 - Climate Analysis and Exploration
